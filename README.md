@@ -22,7 +22,8 @@ That’s when I turned to code. I taught myself Python, DOM reverse-engineering,
 *"Why perform physically what can be executed programmatically?"*
 Whether it's bypassing Virtual DOM event restrictions, orchestrating multi-tab web workers, or scraping geo-targeted leads without triggering anti-bot mechanisms, I build tools that turn chaos into structured, automated pipelines.
 
-## 📬 Get in Touch
-I'm always open to discussing automation architecture, reverse engineering, or remote opportunities.
-- **Email:** shshshshsh0810@gmail.com
-- **Telegram:** [@windrangerrrr](https://t.me/windrangerrrr)
+...I build tools that turn chaos into structured, automated pipelines.
+
+---
+*Always exploring new ways to build resilient systems. Let's connect.*
+
